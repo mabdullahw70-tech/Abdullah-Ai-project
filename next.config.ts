@@ -1,4 +1,4 @@
-import type { NextConfig } from "next";
+gimport type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
